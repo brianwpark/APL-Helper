@@ -1,1 +1,0 @@
-To Open pyqt5 designer tool, open terminal and type "qt5-tools designer"
