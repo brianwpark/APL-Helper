@@ -2,7 +2,7 @@ import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
 
-form_class = uic.loadUiType("radiobuttonTest.ui")[0]
+form_class = uic.loadUiType("Learning-UI/02.03 RadioButton/radiobuttonTest.ui")[0]
 
 class WindowClass(QMainWindow, form_class) :
     def __init__(self) :
